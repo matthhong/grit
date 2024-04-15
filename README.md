@@ -63,8 +63,8 @@ http://localhost:5173/?data=aug20-1
 
 This application was developed as part of the [Caltech/JPL/ArtCenter Data to Discovery (D2D) Summer Data Visualization Program](https://datavis.caltech.edu/). In the 10-week D2D program, visualization faculty at Caltech, JPL and Art Center College of Design work with talented design and computer science student interns in collaboration with Caltech and JPL research groups. Together, teams develop custom-built interactive data visualization tools for science and engineering research projects using the state-of-the-art techniques. Read about [past projects, program structure, and funding available](http://datavis.caltech.edu/)
 
-## License
-   
+## Copyright
+
    Copyright (c) 2023-24 California Institute of Technology ("Caltech"). U.S. Government sponsorship acknowledged.
 
    All rights reserved.
@@ -77,6 +77,8 @@ This application was developed as part of the [Caltech/JPL/ArtCenter Data to Dis
 
    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+## License
+   
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
    You may obtain a copy of the License at
