@@ -1,0 +1,31 @@
+{
+  "name": "client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --watch",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.1",
+    "autoprefixer": "^10.4.8",
+    "daisyui": "^2.22.0",
+    "postcss": "^8.4.14",
+    "svelte-hash-router": "^1.0.1",
+    "tailwindcss": "^3.1.7"
+  },
+  "dependencies": {
+    "carbon-components-svelte": "^0.67.4",
+    "d3": "^7.6.1",
+    "d3-hexbin": "^0.2.2",
+    "hull.js": "^1.0.2",
+    "node-releases": "^2.0.14",
+    "quickhull3d": "^2.0.5",
+    "svelte-spa-router": "^3.2.0",
+    "textures": "^1.2.3",
+    "vega-lite": "^5.4.0",
+    "vega-lite-api": "^5.0.0"
+  }
+}
