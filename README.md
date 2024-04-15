@@ -50,6 +50,19 @@ and finally, navigate to the following URL:
 
 http://localhost:5173/?data=aug20-1
 
+## Contributors
+
+- [Matt-Huen Hong](https://www.mattheun.com/), UNC Chapel Hill
+- [Racquel Fygenson](https://www.racquelfygenson.com/), Northeastern University
+- Isabel Li, Art Center College of Design
+- [Kristopher Wehage](https://robotics.jpl.nasa.gov/who-we-are/people/kristopher_wehage/), Jet Propulsion Laboratory, California Institute of Technology
+- [Scott Davidoff](https://scottdavidoff.com/), Jet Propulsion Laboratory, California Institute of Technology
+- Maggie Hendrie, Art Center College of Design
+- [Hillary Mushkin](https://www.hillarymushkin.com/), California Institute of Technology
+- [Santiago Lombeyda](https://www.lombeyda.com/), California Institute of Technology
+
+This application was developed as part of the [Caltech/JPL/ArtCenter Data to Discovery (D2D) Summer Data Visualization Program](https://datavis.caltech.edu/). In the 10-week D2D program, visualization faculty at Caltech, JPL and Art Center College of Design work with talented design and computer science student interns in collaboration with Caltech and JPL research groups. Together, teams develop custom-built interactive data visualization tools for science and engineering research projects using the state-of-the-art techniques. Read about [past projects, program structure, and funding available](http://datavis.caltech.edu/)
+
 ## License
    
    Copyright (c) 2023-24 California Institute of Technology ("Caltech"). U.S. Government sponsorship acknowledged.
