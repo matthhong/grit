@@ -2,6 +2,8 @@
 
 Mars Rover Planners are studying the potential for AutoNav Monte Carlo simulations to help them assess the risks of extended automatic navigation over challenging topography. GRIT summarizes thousands of simulated AutoNav runs for Rover Planners to investigate and understand potential failure cases.
 
+<img src="https://i.imgur.com/NpzGQt6.gif" alt="Demo animation" width="600"/>
+
 ## Setting Up the Local Environment
 
 ### Installing Node.js with `n`
