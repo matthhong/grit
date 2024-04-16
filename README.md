@@ -52,7 +52,7 @@ http://localhost:5173/?data=aug20-1
 
 ## Contributors
 
-- [Matt-Huen Hong](https://www.mattheun.com/), UNC Chapel Hill
+- [Matt-Heun Hong](https://www.mattheun.com/), UNC Chapel Hill
 - [Racquel Fygenson](https://www.racquelfygenson.com/), Northeastern University
 - Isabel Li, Art Center College of Design
 - [Kristopher Wehage](https://robotics.jpl.nasa.gov/who-we-are/people/kristopher_wehage/), Jet Propulsion Laboratory, California Institute of Technology
